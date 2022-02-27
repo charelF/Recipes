@@ -54,7 +54,6 @@
 <img src="images/fondue/fondue_21.jpeg" width="320" />
 <img src="images/fondue/fondue_22.jpeg" width="320" />
 <img src="images/fondue/fondue_23.jpeg" width="320" />
-<img src="images/fondue/fondue_24.jpeg" width="320" />
 
 
 
