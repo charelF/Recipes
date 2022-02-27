@@ -31,10 +31,8 @@
 ![test](images/fondue/gif2.gif)
 ![test](images/fondue/gif3.gif)
 ![test](images/fondue/gif4.gif)
-
-![test]()
-
-<img src="images/fondue/fondue_1.jpeg" width="200" height="400" />
+<img src="images/fondue/fondue_1.jpeg" width="320" />
+<img src="images/fondue/fondue_2.jpeg" width="320" />
 
 
 
