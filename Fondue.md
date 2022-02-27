@@ -8,6 +8,7 @@
 - 1 tbsp corn starch per 4 people
 - 2-3 cl (shot glas) kirsch spirit per 4 people
 - 1 clove of garlic
+- black pepper to taste
 
 ### Other
 - 2 handfulls of bread cut into small pieces (roughly 2x2x2 cm) per person
@@ -16,7 +17,7 @@
 
 ## Preparation
 
-- Pour the wine into the caquelon (fondue pot). Cut the garlic in small pieces and add it to the whine. Bring to a boil over the stovetop.
+- Pour the wine into the caquelon (fondue pot). Cut the garlic in small pieces and add it to the whine. Add some black pepper to taste. Bring to a boil over the stovetop.
 - Once the wine is boiling, add the cheese. Its easiest to add the cheese slowly and mix it into the wine, then once its melted add more cheese and so on. Try to avoid lumps altought there should not be any forming. Stir until all the cheese is melted.
 - The cheese wine mix may be bubbling, though it should not burn.
 - In a cup, combine the kirsch and corn starch, again avoiding lumps.
