@@ -27,7 +27,7 @@
 
 ## Images and Notes
 
-![test](images/fondue/gif1.gif)
+
 ![test](images/fondue/gif2.gif)
 ![test](images/fondue/gif3.gif)
 ![test](images/fondue/gif4.gif)
@@ -39,8 +39,9 @@
 <img src="images/fondue/fondue_6.jpeg" width="320" />
 <img src="images/fondue/fondue_7.jpeg" width="320" />
 <img src="images/fondue/fondue_8.jpeg" width="320" />
-<img src="images/fondue/fondue_9.jpeg" width="320" />
+![test](images/fondue/gif1.gif)
 <img src="images/fondue/fondue_10.jpeg" width="320" />
+<img src="images/fondue/fondue_9.jpeg" width="320" />
 <img src="images/fondue/fondue_12.jpeg" width="320" />
 <img src="images/fondue/fondue_14.jpeg" width="320" />
 <img src="images/fondue/fondue_15.jpeg" width="320" />
