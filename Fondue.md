@@ -28,6 +28,9 @@
 ## Images and Notes
 
 ![test](images/fondue/gif1.gif)
+![test](images/fondue/gif2.gif)
+![test](images/fondue/gif3.gif)
+![test](images/fondue/gif4.gif)
 
 
 
