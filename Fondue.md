@@ -27,7 +27,7 @@
 
 ## Images and Notes
 
-
+![test](../images/fondue/gif1.gif)
 
 
 
