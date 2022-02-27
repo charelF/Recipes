@@ -32,7 +32,7 @@
 ![test](images/fondue/gif3.gif)
 ![test](images/fondue/gif4.gif)
 
-![test]('images/fondue/fondue_1.jpeg')
+![test](images/fondue/fondue_1.jpeg)
 
 
 
