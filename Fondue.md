@@ -32,7 +32,9 @@
 ![test](images/fondue/gif3.gif)
 ![test](images/fondue/gif4.gif)
 
-![test](images/fondue/fondue_1.jpeg)
+![test]()
+
+<img src="images/fondue/fondue_1.jpeg" width="200" height="400" />
 
 
 
