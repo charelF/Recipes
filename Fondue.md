@@ -5,7 +5,7 @@
 ### Fondue
 - 200 g cheese mix per person (Ideal is a 50% Gruyère, 50% Vacherin Fribourgeois mix that can be found in shops in Switzerland)
 - 1 dl white wine per person (Fendant wine or similar)
-- 1 large tsp corn starch per 4 people
+- 1 tbsp corn starch per 4 people
 - 2-3 cl (shot glas) kirsch spirit per 4 people
 - 1 clove of garlic
 
